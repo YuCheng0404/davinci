@@ -1,0 +1,12 @@
+{
+    "id": "Menu_API",
+    "schema_version": "v1",
+    "name_for_human": "Menu_API",
+    "name_for_model": "Menu_API",
+    "description_for_human": "Menu_API",
+    "description_for_model": "當你需要查詢菜單價格相關資料, 請使用這個API, 並且整理相關資訊以表格輸出",
+    "api": {
+      "type": "openapi",
+      "url": "https://gist.githubusercontent.com/jimmycheng-web/f24be301a078a5b2d0814567e0e413f2/raw/a608b1bbdae87873289d2fa3ffb7714c12f44aa9/gistfile1.yaml"
+    }
+  }

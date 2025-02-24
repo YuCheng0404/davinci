@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d4cd32f2-3efc-4771-a4f0-34b260e806de/resourceGroups/rg-davinci-plugin/providers/Microsoft.Web/sites/app-crs-davinci",
+    "appService.deploySubpath": "src"
+}
